@@ -9,3 +9,4 @@ print("New line to be print")
 
 print("last line to be printed")
 
+print("New machine")
